@@ -1,0 +1,7 @@
+# dataset.yaml
+path: F:\UWF\Research\Volan2018\volan-yolo\Data\datasets\helicopter_dataset
+train: images/train
+val: images/val
+
+nc: 6  # e.g., 3 if you have 3 classes
+names: ['Undamaged_Roof', 'Damaged_Roof', 'Debris', 'Flooded_Area', 'Car', 'Vegetation']  # List your class names here
