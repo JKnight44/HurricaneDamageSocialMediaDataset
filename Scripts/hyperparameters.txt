@@ -1,0 +1,9 @@
+epochs:100
+imgsz:720
+lr0:0.001
+batch:16
+optimizer:"Adam"
+#momentum:0.937
+weight_decay:1.3142636082792856e-06
+augment:True
+dropout:0.13960522885895857
